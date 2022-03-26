@@ -1,7 +1,7 @@
 ### Hidden search
 
-![img](./img/hidden-search.png) <br/>
-[Test this app yourself](https://maykaltenev.github.io/hidden-search/)
+![img](./img/cover-page.png) <br/>
+[Test this app yourself](https://maykaltenev.github.io/blurred-page/)
 
 ---
 
@@ -15,7 +15,7 @@ This project is part of the 50 projects in 50 Days - 50 HTML, CSS & JavaScript! 
 
 ### How to use this Project
 
-Click on search button and the search input will slide to the! Get motivated and inspired! Free free to use the code.
+This is a loading page starting blurred and with a counter on the loading with opacity.
 
 ##### Developed With
 
@@ -27,3 +27,7 @@ Click on search button and the search input will slide to the! Get motivated and
 - [ ] _React_
 - [ ] _Bootstrap_
 - [x] _npm_
+
+## Photo Credit :
+
+https://images.unsplash.com/photo-1503642551022-c011aafb3c88?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
