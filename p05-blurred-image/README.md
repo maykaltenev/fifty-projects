@@ -1,4 +1,4 @@
-### Hidden search
+### Blurred Loading page
 
 ![img](./img/cover-page.png) <br/>
 [Test this app yourself](https://maykaltenev.github.io/blurred-page/)
@@ -13,7 +13,9 @@ This project is part of the 50 projects in 50 Days - 50 HTML, CSS & JavaScript! 
 
 [udemy]: https://www.udemy.com/course/50-projects-50-days/
 
-### How to use this Project
+<br>
+
+#### How to use this Project
 
 This is a loading page starting blurred and with a counter on the loading with opacity.
 
@@ -31,3 +33,5 @@ This is a loading page starting blurred and with a counter on the loading with o
 ## Photo Credit :
 
 https://images.unsplash.com/photo-1503642551022-c011aafb3c88?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+
+https://images.unsplash.com/photo-1534270804882-6b5048b1c1fc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=812&q=80
